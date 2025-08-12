@@ -8,7 +8,11 @@ I'm a software developer based in the United States, currently working on exciti
 
 ## Skills & Technologies
 
-fastapi,react,tailwind,electron,html,css,git,docker,flutter,mysql,postgres,redis
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,electron,html,css,git,docker,flutter,mysql,postgres,vscode,vite,javascript,python" />
+  </a>
+</p>
 
 ## Top Projects
 
