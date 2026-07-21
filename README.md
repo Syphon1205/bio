@@ -1,128 +1,85 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Tanner Davidson — Building software for the agentic era" />
+# Tanner Davidson
 
-<br />
+### Software engineer building AI developer tools and native products
 
+**Founder of Modesto** · **Creator of CommuteNEXT** · Oklahoma City
 
+[LinkedIn](https://www.linkedin.com/in/tanner-davidson-95b549291) · [GitHub](https://github.com/Syphon1205)
 
 </div>
 
-<br />
+---
 
-I build products, not demos.
+## Building software for the agentic era
 
-I am a software engineer and founder based in Oklahoma City, focused on AI developer tools, agent infrastructure, and native applications.
+I design and build products at the intersection of **artificial intelligence, developer tooling, and native application engineering**.
 
-My work sits at the intersection of engineering and product design. I care about how systems work, how they feel, and whether they are useful outside of a pitch deck.
+My work is centered on one question:
 
-<br />
+> How should software feel when agents become part of the development team?
 
-Selected work
+I care about the complete product: architecture, interaction design, implementation, performance, and the small details that turn an experiment into something people can rely on.
+
+---
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Syphon1205">
-<img src="./assets/modesto.svg" width="100%" alt="Modesto" />
-</a>
 
-Modesto
+### Modesto
 
-An AI-native development workspace built to unify coding agents, repository context, research, review, and remote sessions.
+An AI-native development environment for working across coding agents, repositories, and runtimes.
 
-Codex Claude Gemini Cursor Local Models
+**What I am building**
+
+- Multi-provider agent orchestration
+- Repository-aware research and execution
+- Agent handoffs and remote sessions
+- Context-aware code review
+- Native desktop and iOS experiences
+
+**Working with**
+
+`Swift` `TypeScript` `Python` `React` `Tauri` `LLM APIs`
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Syphon1205">
-<img src="./assets/commutenext.svg" width="100%" alt="CommuteNEXT" />
-</a>
 
-CommuteNEXT
+### CommuteNEXT
 
-A native real-time transit experience for iPhone, built around live operations, intelligent alerts, and clean product design.
+A native transit product designed around live operations, useful alerts, and a cleaner commuter experience.
 
-SwiftUI GTFS-RT MapKit Live Activities
+**What it includes**
+
+- GTFS and GTFS-Realtime data
+- Live vehicle locations
+- Service alerts and saved trips
+- Widgets and Live Activities
+- Native mapping and route intelligence
+
+**Built with**
+
+`SwiftUI` `MapKit` `GTFS-RT` `Core Location` `ActivityKit`
 
 </td>
 </tr>
 </table>
 
-<br />
+---
 
-Now
+## Currently building
 
-<img src="./assets/status.svg" width="100%" alt="Current build status" />
+```text
+MODESTO
+├── Code        Multi-provider AI development workspace
+├── Mobile      Remote control for active coding sessions
+├── Review      Repository-aware AI code review
+├── Research    Source-grounded technical research
+└── Cowork      Shared agent workflows for teams
 
-These percentages are visual placeholders. Update them whenever you want the profile to reflect current progress.
-
-<br />
-
-Systems I work on
-
-<table>
-<tr>
-<td width="25%">
-
-Agents
-
-Multi-provider orchestrationTool executionContext managementAgent handoffs
-
-</td>
-<td width="25%">
-
-Native
-
-SwiftUIiOS and macOSWidgetsLive Activities
-
-</td>
-<td width="25%">
-
-Product
-
-Interaction designDesign systemsRapid prototypingEnd-to-end delivery
-
-</td>
-<td width="25%">
-
-Infrastructure
-
-PythonTypeScriptFastAPIPostgreSQL
-
-</td>
-</tr>
-</table>
-
-<br />
-
-Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=swift,python,typescript,javascript,react,nodejs,fastapi,electron,tauri,postgres,sqlite,firebase,git,github,figma,vscode&perline=9" alt="Technology stack" />
-
-</div>
-
-<br />
-
-Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Syphon1205&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=ffffff&text_color=a1a1aa&icon_color=7c3aed" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syphon1205&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=a1a1aa" alt="Most used languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syphon1205&bg_color=00000000&color=a1a1aa&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-Building software that helps people build what comes next.
-
-Modesto · CommuteNEXT · Oklahoma City
-
-</div>
+COMMUTENEXT
+└── 2.0         A redesigned native transit experience
