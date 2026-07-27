@@ -16,7 +16,6 @@
 ```yaml
 name: Tanner Davidson
 role: Software Engineer & Founder
-location: Oklahoma City, Oklahoma
 
 building:
   - Modesto
